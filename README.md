@@ -1,3 +1,3 @@
 # Codewars' katas
 
-There will be my kats which I decide in my free time:)
+There will be my katas which I decide in my free time:)
